@@ -35,6 +35,23 @@ Build Modular Documentation: Connect related work instructions without creating 
 
 Keep Instructions Current: Review and update procedures, screenshots, commands, paths, and validation steps as the environment changes.
 
+**Example Screenshot**
+
+- Use screenshots to show the technician exactly where to click, enter information, or confirm a result.
+- Highlight only the areas that matter so the technician is not distracted by unnecessary information.
+- Redact usernames, internal tools, sensitive file names, or other information that does not need to appear in the work instruction.
+
+**Example Work Instruction Structure**
+
+- Purpose and Scope: Explain what the instruction accomplishes and when it should be used.
+- Prerequisites: Identify required access, credentials, tools, systems, or related procedures.
+- Procedure: Provide clear actions in the correct order.
+- Expected Results: Explain what the technician should see after important steps.
+- Validation: Confirm that the intended result was actually achieved.
+- Escalation: Define when to stop, what evidence to collect, and which team should receive the issue.
+- Related Work Instructions: Link supporting procedures rather than repeating them.
+- Ownership and Review: Identify who maintains the document and when it was last reviewed.
+
 **Lessons Learned**
 - Heavy reliance on tribal knowledge can slow down new technicians and make it harder for them to get up to speed efficiently.
 - Clear and standardized work instructions reduce wasted time by helping technicians know what to do, where to go, and how to validate the result.
