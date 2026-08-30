@@ -17,7 +17,7 @@ Effective work instructions provide clear business value. They can reduce traini
 
 Define Purpose and Scope: State what the instruction accomplishes, when to use it, and what systems it applies to.
 
-Provide Exact Actions: Identify the correct and exact and detailed system, menu, command, file path, server, or administrative tool.
+Provide Exact Actions: Identify the the exact system, menu, command, file path, server, or administrative tool.
 
 Use the Right Amount of Detail: Give enough information to complete the task without unnecessary repetition.
 
