@@ -41,6 +41,8 @@ Keep Instructions Current: Review and update procedures, screenshots, commands, 
 - Highlight only the areas that matter so the technician is not distracted by unnecessary information.
 - Redact usernames, internal tools, sensitive file names, or other information that does not need to appear in the work instruction.
 
+![Example Work Instruction Screenshot](images/Desktop-work-instruction.png)
+
 **Example Work Instruction Structure**
 
 - Purpose and Scope: Explain what the instruction accomplishes and when it should be used.
