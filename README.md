@@ -1,4 +1,5 @@
 **Effective IT Work Instructions**
+
 Business guide for creating clear and consistent IT work instructions for efficient technical operations.
 
 In business and enterprise IT, clear, effective, and useful work instructions help the IT department and its technicians perform tasks consistently, accurately, and with less friction and unnecessary guesswork. That means less wasted time for the organization and a better ability to solve problems more quickly. A quality work instruction is designed to explain what needs to be done, where the technician needs to go, what actions need to be taken, what results can be expected, any possible deviations or variations, and when the technician should complete the task or escalate it. The goal is not to document every mouse movement and click. The goal is to provide enough information for the technician to complete the work correctly without creating unnecessary confusion or repetition.
@@ -34,7 +35,7 @@ Build Modular Documentation: Connect related work instructions without creating 
 
 Keep Instructions Current: Review and update procedures, screenshots, commands, paths, and validation steps as the environment changes.
 
-Lessons Learned
+**Lessons Learned**
 - Heavy reliance on tribal knowledge can slow down new technicians and make it harder for them to get up to speed efficiently.
 - Clear and standardized work instructions reduce wasted time by helping technicians know what to do, where to go, and how to validate the result.
 - Consistent documentation supports smoother handoffs, better teamwork, and stronger technician confidence and morale.
